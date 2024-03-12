@@ -10,7 +10,7 @@ URL: https://yjk2004.github.io/workshop_task_0/
 
 ### things that I explore
 
-- Explored RGB colors.
+- Explored RGB colors.(icecream flavor, icecream cone)
 - Change of setup: color of background.
 
 Conditionals: when the shape get to beyond halfway, it becomes red.
